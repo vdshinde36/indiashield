@@ -48,7 +48,7 @@
   
   
   
-  const port = config.PORT || 7000;
+  const port = config.PORT || 3000;
   
   console.log(`[process.env][${process.env.toString()}]`);
     
