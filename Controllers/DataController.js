@@ -39,4 +39,4 @@ class DataController{
     }
 }
 
-module.exports = DataController
+module.exports = DataController;
